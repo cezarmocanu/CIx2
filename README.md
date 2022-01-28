@@ -31,3 +31,5 @@
 - cum desenam pe cu cod 1(bg, fill, no fill, dreptunghiuri, ellipse)
   - Explicam ce sunt coordonatele x,y
   - Fundal albastru, campie rotunda facuta cu o elipsa, blocuri cu ferestre, nori si un soare
+  - ![image](https://user-images.githubusercontent.com/15773819/151635130-a6ffc057-e9c7-47f6-96fc-4d139d7f2b21.png)
+
