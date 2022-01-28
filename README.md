@@ -1,5 +1,5 @@
 
-#Challange-uri
+# Challange-uri
  - Roata dintata
  - Buton desenat
  - Explozie de particule / Racheta care se lanseaza in spatiu
@@ -7,15 +7,17 @@
 
 
 - coordonate polare
-  - 
+  - x 
+- functii
+ - desenam ceva folosind functii
 - for loop
   - 
 - If si matematica logica
   - Bila saritoare
 - Animatie
   - functia draw si ce inseamna redesenarea
-- mouseClick si mouseWheel
-  
+- mouseClick
+  - bila care doarme si are ochii inchisi si atunci cand o apesi se sperie si ii apar ochii si se sperie
 - Variabile
   - desenam o racheta pe care vrem sa o trimitem in spatiu si observam ca nu putem trimite fiindca se misca doar anumite parti
 - cum desenam cu cod 2(puncte, linii, si poligoane, strokeWeight)
